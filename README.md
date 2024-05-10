@@ -126,7 +126,7 @@ Publish the website in the LocalHost.
             Ethical Hacking
             </div>
             <div class="mypic">
-                <img src="PHOTO.jpg" width="130" height="145" alt="">
+                <img src="JOSH.jpg" width="130" height="145" alt="">
             </div>
             <div class="id">
                 <hr style="color: pink;">
